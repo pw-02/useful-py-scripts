@@ -1,0 +1,7 @@
+Model Name	Number of Parameters (Billions)	Number of Tokens (Billions)	Number of GPUs	teraFlOPs per GPU	Number of Epochs	Dataset Size (GB)
+pythia-1b	1.011781632	300	1	75.91	0.89	886
+pythia-2.8b	2.77520896	300	1	204.87	0.89	886
+tiny-llama-1.1b	1.100048384	300	1	86.48	3	1410
+open_llama_3b	3.4264736	1000	1	245.42	1	2734
+HyperCLOVA	82	150	1	312	1	2734
+NVIDIA	175	300	1024	140	1	2734
