@@ -1,3 +1,6 @@
+#https://developer.nvidia.com/blog/scaling-language-model-training-to-a-trillion-parameters-using-megatron/
+
+
 import pandas as pd
 
 df = pd.read_csv('estimate_llm_training_time\\input.tsv', delimiter='\t')
